@@ -1,0 +1,26 @@
+Version 1.0
+i)  Intial version Release
+
+Version 1.1
+i)  tags removed
+ii) hide demo content
+
+Version 1.2
+i) FrontPage Settings Done.
+
+Version 1.3
+i) Sovled chrome browser on page refresh mobile menu bar appears on top right side of page for a milliseconds and disappears issue.
+
+Version 1.4
+i) Resolved all changes as per comments.
+
+Version 1.5
+i)   Resolved admin about theme page Cannot modify header information - header already sent issue. 
+ii)  Resolved The image attachment page is showing HTML tags issue.
+iii) Change 404 page and making it more helpful.
+iv)  Resolved Default stying issue of HTML tags [eg:blockquote, dd, dt, hr, address, ol, ul, p]
+v)   Resolved The aligncenter class alignment issue.
+
+Version 1.6
+i)   Author URI and Theme URI changed.
+ii)  Removed anchor link from footer.
